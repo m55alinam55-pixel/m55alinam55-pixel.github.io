@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "purahpihcn",
+    "mbrsiteDomain": "3vrwairnm7",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -67,8 +67,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
-    "publishEditFolder": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
